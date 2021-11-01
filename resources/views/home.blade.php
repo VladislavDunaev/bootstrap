@@ -17,5 +17,6 @@
         <div class="bg-indigo-500 h-12 rounded-md flex items-center justify-center text-white text-2xl font-extrabold">9</div>
         <div class="bg-indigo-500 h-12 rounded-md flex items-center justify-center text-white text-2xl font-extrabold">10</div>
         <div class="bg-indigo-500 h-12 rounded-md flex items-center justify-center text-white text-2xl font-extrabold">11</div>
+        <div class="bg-indigo-500 h-12 rounded-md flex items-center justify-center text-white text-2xl font-extrabold">12</div>
     </div>
 @endsection
